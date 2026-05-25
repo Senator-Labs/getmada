@@ -19,3 +19,4 @@ In the era of autonomous AI agents and "Idea Files", agents need a true home. Ma
 * **[Semantic Registry](.semantic_registry/README.md)** — Agent-readable context and constraints
 
 *Maintained by the architects at [Senator Labs](https://github.com/senator-labs).*
+# Test
